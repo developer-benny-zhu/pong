@@ -82,6 +82,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [Choose an Open Source License](https://choosealicense.com)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [Img Shields](https://shields.io)
+* [Odin](https://odin-lang.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
